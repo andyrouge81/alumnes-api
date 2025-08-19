@@ -10,13 +10,13 @@
             "id": 2,
             "nom": "Joan",
             "cognoms": "Castanyera Raventós",
-            "nota": 6
+            "nota": 7
         },
         {
             "id": 3,
             "nom": "María",
             "cognoms": "Puig Abella",
-            "nota": 6
+            "nota": 7
         },
         {
             "id": 4,
@@ -26,10 +26,10 @@
         },
         {
 
-            "aneu": 7,
-            "nom": "Xènia",
-            "cognoms": "Pérez Lecha",
-            "nota": 8
+        "id": 7,
+        "nom": "Xènia",
+        "cognoms": "Pérez Lecha",
+        "nota": 8
 
         }
     ]
